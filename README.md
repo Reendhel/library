@@ -16,11 +16,12 @@ This repository contains a PHP-based API built using the **Slim Framework**. The
 9. **View Book-Author**: Retrieves details of a specific book-author relationship by author ID and book ID with a valid JWT token.
 10. **View All Book-Authors**: Retrieves a list of all book-author relationships in the database with a valid JWT token.
 
-
 ---
 
 
 ## Endpoints
+
+**NOTE** The tokens given in this examples are already used, to proceed without errors pls do 1 to 10 step by step.
 
  1. **User Registration**
     - **Method**: `POST`

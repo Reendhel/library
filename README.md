@@ -5,7 +5,7 @@ This repository contains a PHP-based API built using the **Slim Framework**. The
 ---
 ## Applications used
 - Visual Studio Code
-- Sqlyog
+- Sqlyog (Ultimate)
 - Xampp
 
 ---

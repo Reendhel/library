@@ -21,7 +21,7 @@ This repository contains a PHP-based API built using the **Slim Framework**. The
 
 ## Endpoints
 
-**NOTE** The tokens given in this examples are already used, to proceed without errors pls do 1 to 10 step by step.
+**NOTE:** The tokens given in this examples are already used, to proceed without errors pls do 1 to 10 step by step.
 
  1. **User Registration**
     - **Method**: `POST`

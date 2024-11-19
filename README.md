@@ -4,7 +4,7 @@ This repository contains a PHP-based API built using the **Slim Framework**. The
 
 ---
 
-## Library API's Features
+## Library API Features
 1. **User Registration**: Add a new user with a username and hashed password.
 2. **User Authentication**: Validate a user's credentials and generate a JWT for session management.
 3. **View All Users**: Fetch a list of all registered users (requires valid JWT).

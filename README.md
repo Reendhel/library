@@ -3,7 +3,12 @@
 This repository contains a PHP-based API built using the **Slim Framework**. The API provides basic user management functionality with secure authentication using **JSON Web Tokens (JWT)**.
 
 ---
+## Applications used
+- Visual Studio Code
+- Sqlyog
+- Xampp
 
+---
 ## Library API Features
 1. **User Registration**: Add a new user with a username and hashed password.
 2. **User Authentication**: Validate a user's credentials and generate a JWT for session management.
